@@ -10,7 +10,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/giovotinh107/miraibot.git"
+      "url": "git+https://github.com/khaile890/yuki.git"
     },
     "author": "khaile",
     "license": "GPL-3.0",
@@ -131,9 +131,9 @@
       "ytdl-core": "^4.11.4"
     },
     "bugs": {
-      "url": "https://github.com/giovotinh107/miraibot/issues"
+      "url": "https://github.com/khaile890/yuki/issues"
     },
-    "homepage": "https://github.com/giovotinh107/miraibot#readme",
+    "homepage": "https://github.com/khaile890/yuki#readme",
     "devDependencies": {},
     "keywords": []
   }
